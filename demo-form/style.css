@@ -1,0 +1,65 @@
+*{
+  margin: 0%;
+  padding: 0%;
+}
+h3{
+
+  text-align: center;
+  font-size: xx-large;
+  background-color: aqua;
+  margin-bottom:  15px;
+  padding: 15px;
+}
+
+input[type="text" i]{
+  width: 100%;
+  border-radius: 5px;
+  padding: 5px;
+}
+.container-form{
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.registration-form{
+  padding-top: 5px;
+  height: auto;
+  box-shadow: 5px;
+  width: 50%;
+  margin-bottom: 20px;
+  padding: 12px;
+  display: inline-block;
+  
+}
+
+.patient-form{
+  display: flex;
+  padding-bottom: 8px;
+  
+}
+.patient-form label {
+  width: 30%;
+}
+.ful-form{
+ display: flex;
+ gap: 8px;
+ padding-top: 8px;
+}
+.testName{
+  padding-top: 1px;
+  height: auto;
+  box-shadow: 5px;
+  width: 48%;
+  margin-bottom: 50px;
+  padding: 12px;
+  display: inline-flex;
+}
+.testName label {
+  width: 30%;
+}
+.testName textarea {
+  width: 100%;
+  border-radius: 5px;
+  padding: 5px;
+}
+

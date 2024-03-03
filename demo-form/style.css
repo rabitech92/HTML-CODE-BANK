@@ -1,0 +1,92 @@
+*{
+  margin: 0%;
+  padding: 0%;
+  font-family: sans-serif;
+}
+
+input:hover,textarea:hover{
+  background-color: rgb(202, 236, 236)
+}
+
+form{
+  margin-left: 30px;
+  margin-right: 30px;
+  
+}
+
+h3{
+
+  text-align: center;
+  font-size: xx-large;
+  background-color: aqua;
+  margin-bottom:  15px;
+  padding: 15px;
+  
+}
+
+input[type="text" i]{
+  width: 65%;
+  border-radius: 5px;
+  padding: 5px;
+  
+}
+.container-form{
+  font-weight: bold;
+
+}
+
+.registration-left{
+  padding-top: 5px;
+  box-shadow: 5px;
+  width: 50%;
+  display: inline-block;
+  
+  
+}
+
+.registration-right{
+  padding-top: 5px;
+  box-shadow: 5px;
+  width: 50%;
+  display: inline-block;
+  
+  
+}
+
+.patient-form{
+  display: flex;
+  padding-bottom: 10px;
+  
+  
+  
+}
+.patient-form label {
+  width: 30%;
+  
+}
+
+.ful-form{
+ display: flex;
+ padding-top: 8px;
+ 
+}
+
+.testName{
+  padding-top: 1px;
+  height: auto;
+  box-shadow: 5px;
+  width: 100%;
+  margin-bottom: 50px;
+  display: inline-flex;
+  
+}
+.testName label {
+  width: 15%;
+  float: left;
+}
+.testName textarea {
+  width: 82.5%;
+  border-radius: 5px;
+  padding: 5px;
+}
+
